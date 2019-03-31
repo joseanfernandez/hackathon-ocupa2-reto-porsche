@@ -28,6 +28,9 @@ $ npm run build
 ---
 
 #### 00 Comprobar TensorFlow en Python
+
+Para uso en Colab usar archivo: Colab_ReentrenarModelo_P2. ipynb
+
 ```bash
 !python -c 'import tensorflow as tf; print(tf.__version__)'
 ```
