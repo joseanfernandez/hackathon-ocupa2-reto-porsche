@@ -62,3 +62,6 @@ typings/
 
 # Carpeta dist
 dist/
+
+# Carpeta .cache
+.cache/
