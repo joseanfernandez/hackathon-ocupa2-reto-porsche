@@ -1,5 +1,7 @@
 # TensorFlow.js | Mobilenet
 
+<img src="snapshot.png" alt="snapshot.png" style="max-width: 400px;">
+
 Modelo usado
 [aqui](https://github.com/fchollet/deep-learning-models/releases/download/v0.6/mobilenet_2_5_224_tf.h5)
 Keras pre-entrenado, modelo mobilenet.
