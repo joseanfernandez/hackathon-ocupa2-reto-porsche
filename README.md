@@ -90,7 +90,7 @@ ls
 ```bash
 ls /tmp
 ```
-#### Reentrenar modelo: 
+#### Exportar modelo JSON: 
 ```bash
 mkdir salida
 
