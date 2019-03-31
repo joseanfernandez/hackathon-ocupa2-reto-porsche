@@ -2,6 +2,12 @@
 
 <img src="snapshot.png" alt="snapshot.png" style="max-width: 400px;">
 
+Para este proyecto se ha usado la librería de JavaScript TensorFlowJS<br>
+que usa un modelo de clasificación de imágenes MobileNet.<br>
+Se re-entrenará el modelo con un dataset de coches Porche y No Porche<br>
+con el objetivo de el modelo aprenda a distinguir entre uno y otro.<br>
+Para realizar el re-entrenamiento se ha usado Colab de Google.<br>
+
 Modelo usado
 [aqui](https://github.com/fchollet/deep-learning-models/releases/download/v0.6/mobilenet_2_5_224_tf.h5)
 Keras pre-entrenado, modelo mobilenet.
